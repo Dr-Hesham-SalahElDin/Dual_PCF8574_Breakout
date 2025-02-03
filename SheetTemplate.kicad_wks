@@ -745,9 +745,9 @@
 			"4CtRXwKRia/EwHuGU+Z/Wj4XiJd1LAOPzZimp//Z"
 		)
 	)
-	(tbtext "Designed By: Dr Hesham Hassan Shaker"
+	(tbtext "Designed By: Dr Hesham Salah ElDin"
 		(name "")
-		(pos 109.38 31.2242)
+		(pos 109.38 31.224)
 		(font
 			(face "KiCad Font")
 			(linewidth 0.254)
