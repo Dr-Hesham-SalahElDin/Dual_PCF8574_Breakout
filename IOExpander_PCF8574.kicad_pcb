@@ -5921,7 +5921,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 111.633 50.8 -0)
+		(at 120.142 50.8 -0)
 		(layer "B.SilkS" knockout)
 		(uuid "a20c771e-3880-4adb-8053-b6f175302681")
 		(effects
@@ -5933,7 +5933,7 @@
 		)
 	)
 	(gr_text "5V"
-		(at 120.777 50.8 -0)
+		(at 111.125 50.8 -0)
 		(layer "B.SilkS" knockout)
 		(uuid "b79b3aec-1fd8-43ae-bf45-7c72fdd9ef97")
 		(effects
@@ -5970,7 +5970,7 @@
 		)
 	)
 	(gr_text "GND"
-		(at 111.633 46.99 -0)
+		(at 120.142 46.863 -0)
 		(layer "B.SilkS" knockout)
 		(uuid "e7b0030d-e173-4e8c-a70c-7a6c29a7383a")
 		(effects
@@ -5982,7 +5982,7 @@
 		)
 	)
 	(gr_text "5V"
-		(at 120.777 46.99 -0)
+		(at 111.125 46.99 -0)
 		(layer "B.SilkS" knockout)
 		(uuid "f82ed622-3e81-4716-9fc2-f3b6d8ecd8fe")
 		(effects
