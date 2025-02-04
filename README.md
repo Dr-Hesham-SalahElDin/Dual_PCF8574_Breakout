@@ -28,5 +28,6 @@ Each **PCF8574** has a **7-bit address**, where the lower 3 bits (`A2, A1, A0`) 
 | 1  | 1  | 0  | `0x26` |
 | 1  | 1  | 1  | `0x27` |
 
+![Schematic Diagram](Capture_Schematic.PNG)
 ![Front View](Capture_Front.PNG)
 ![Back View](Capture_Back.PNG)
