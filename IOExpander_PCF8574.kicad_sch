@@ -3155,7 +3155,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOP-16_4.4x10.4mm_P1.27mm"
+		(property "Footprint" "Package_SO:SO-16_5.3x10.2mm_P1.27mm"
 			(at 199.39 64.77 0)
 			(effects
 				(font
@@ -3267,7 +3267,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOP-16_4.4x10.4mm_P1.27mm"
+		(property "Footprint" "Package_SO:SO-16_5.3x10.2mm_P1.27mm"
 			(at 138.43 66.04 0)
 			(effects
 				(font
